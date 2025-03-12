@@ -54,7 +54,6 @@
 | ESP32'nin uyumsuzluk veya bağlantı sorunları yaşaması | Alternatif donanımlar test edilebilir, hata ayıklama yapılabilir. | 
 | Toplanan verilerin etik sorunlar yaratması | Yasal çerçevelere uygun hareket edilmeli, anonimleştirme yapılmalıdır. |
 | Proje süresinin uzaması | Görevler zamanında tamamlanmalı, ekip içi koordinasyon sağlanmalıdır. |
-| Veri analizi ve güvenlik değerlendirmeleri | Görevler zamanında tamamlanmalı, ekip içi koordinasyon sağlanmalıdır. |
 
 
 ## Ticari Potansiyel
