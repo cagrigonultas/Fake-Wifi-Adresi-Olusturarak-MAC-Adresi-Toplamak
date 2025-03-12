@@ -13,7 +13,6 @@
  * Başarı kriterleri: ESP32'nin sahte Wi-Fi ağı oluşturabilmesi, MAC adreslerini başarılı bir şekilde kaydedebilmesi ve analizlerin yapılabilmesi.
 
 ## Tahmini Zaman Çizelgesi
-Araştırma ve literatür taraması
 | Görev                          | Süre  |
 |----------------------------------|---------|
 | Araştırma ve literatür taraması               | 2 Hafta | 
@@ -54,7 +53,7 @@ Araştırma ve literatür taraması
 |----------------------------------|---------|
 | ESP32'nin uyumsuzluk veya bağlantı sorunları yaşaması | Alternatif donanımlar test edilebilir, hata ayıklama yapılabilir. | 
 | Toplanan verilerin etik sorunlar yaratması | Yasal çerçevelere uygun hareket edilmeli, anonimleştirme yapılmalıdır. |
-| Proje süresinin uzaması | 3 Hafta |
+| Proje süresinin uzaması | Görevler zamanında tamamlanmalı, ekip içi koordinasyon sağlanmalıdır. |
 | Veri analizi ve güvenlik değerlendirmeleri | Görevler zamanında tamamlanmalı, ekip içi koordinasyon sağlanmalıdır. |
 
 
